@@ -34,15 +34,15 @@ COMMENT ON TABLE firma.wynagrodzenie IS 'Tabela zwierająca informacje o wynagro
 
 --Zad5
 INSERT INTO firma.pracownicy VALUES (1,'Maciej', 'Jankowski', 'Sandomierz', '123 456 789'),
-                                    (2,'Grzegorz','Marcyn','Opatów','123 456 789'),
+                                    (2,'Grzegorz','Marcyn','Opatow','123 456 789'),
                                     (3,'Adrianna', 'Kokoszka', 'Kielce', '123 456 789'),
-                                    (4,'Justyna', 'Szpyrka','Staszów','123 456 789'),
-                                    (5,'Mariola', 'Łapacz', 'Tarnobrzeg','123 456 789'),
+                                    (4,'Justyna', 'Szpyrka','Staszow','123 456 789'),
+                                    (5,'Mariola', 'Lapacz', 'Tarnobrzeg','123 456 789'),
                                     (6,'Zbigniew', 'Misky','Dobrodzice','123 456 789'),
                                     (7,'Piotr', 'Passlack','Komorna','123 456 789'),
-                                    (8,'Adrian', 'Jakiela', 'Kleczanów','123 456 789'),
-                                    (9,'Rafał', 'Penar', 'Stalowa Wola', '123 456 789'),
-                                    (10,'Karolina', 'Gaduła', 'Okalina', '123 456 789');
+                                    (8,'Adrian', 'Jakiela', 'Kleczanow','123 456 789'),
+                                    (9,'Rafal', 'Penar', 'Stalowa Wola', '123 456 789'),
+                                    (10,'Karolina', 'Gadula', 'Okalina', '123 456 789');
 INSERT INTO firma.godziny VALUES (1,'2020-10-7',170,1),
                                  (2,'2020-10-7',175,2),
                                  (3,'2020-10-7',170,3),
