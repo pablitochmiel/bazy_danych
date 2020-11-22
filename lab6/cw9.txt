@@ -1,0 +1,2 @@
+spadek powierzchni pomijalny
+spadek wierzcholkow z 7469 na 6661
