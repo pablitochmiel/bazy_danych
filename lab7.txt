@@ -1,0 +1,5 @@
+CREATE DATABASE lab7;
+
+baze przywruciłem używając pgadmin
+
+ 
